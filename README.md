@@ -1,6 +1,6 @@
 # Python Encoding Error Fixer and Python 3.9.7 Downgrader
 <a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-F ix-brightgreen?style=for-the-badge&logo=appveyor"></a>
-## Video Lesson : 
+## Video Lesson : https://www.youtube.com/watch?v=Bo-RzXbzG-M&list=PLo53q4ylnKlCN37KRKNSQjYOGDyKWVoh-
 <img src="Fix.png"/>
 
 
